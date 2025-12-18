@@ -1,0 +1,32 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+env/
+.env
+*.spec
+
+# Node.js
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+dist/
+
+# VS Code
+.vscode/
+*.code-workspace
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Dataset & Logs
+MHEALTHDATASET/
+*.log
+
+# Model & Scaler (Opcional: descomenta si no quieres subirlos al repo)
+# *.onnx
+# scaler_params.json

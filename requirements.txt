@@ -1,0 +1,12 @@
+numpy
+pandas
+scipy
+scikit-learn
+matplotlib
+seaborn
+skl2onnx
+onnxruntime
+onnx
+fastapi
+uvicorn
+python-multipart
